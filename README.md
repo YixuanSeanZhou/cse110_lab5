@@ -1,1 +1,1 @@
-https://travis-ci.com/YixuanSeanZhou/cse110_lab5.svg?branch=master
+https://travis-ci.org/YixuanSeanZhou/cse110_lab5.svg?branch=master
